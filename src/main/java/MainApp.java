@@ -42,9 +42,11 @@ public class MainApp {
             case 4:
                 try {
                     KoronaVirus();
+
                 }catch (TooLessMoney e){
                     System.out.println(e.getMessage());
                 }
+                apachePOIExcelWrite.createExcel(patientList);
             default:
                 break;
         }

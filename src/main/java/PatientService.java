@@ -92,7 +92,7 @@ public class PatientService {
             kasa = kasa - koszt;
             patient.setWallet(kasa);
            patient.setKoronawirus(choryLubnie.get(losowyIndex));
-//i śmiga elegancko :) problem byłz tym konfigiem właśnie że trzeba było usunąć stary i odpalić
+
 
         }
         for (Patient patient :
@@ -102,5 +102,6 @@ public class PatientService {
         }
         System.out.println("pacjenci po zabiegu :\n" + withMoney);
         System.out.println(patientList);
+
     }
 }
