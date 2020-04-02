@@ -10,5 +10,6 @@ public class Patient {
     private String surname;
     private BigInteger pesel;
     private double wallet;
+    private String koronawirus;
 
 }

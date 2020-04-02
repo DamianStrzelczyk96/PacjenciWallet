@@ -22,7 +22,7 @@ public class ApachePOIExcelRead {
             XSSFSheet datatypeSheet = workbook.getSheetAt(workbook.getNumberOfSheets()-1);
             for (int i = 1 ; i < datatypeSheet.getPhysicalNumberOfRows(); i++) {
                 Row currentRow = datatypeSheet.getRow(i);
-                patientList.add(new Patient(currentRow.getCell(0).toString(), currentRow.getCell(1).toString(), new BigInteger(currentRow.getCell(2).toString()), Double.valueOf(currentRow.getCell(3).toString())));
+                patientList.add(new Patient(currentRow.getCell(0).toString(), currentRow.getCell(1).toString(), new BigInteger(currentRow.getCell(2).toString()), Double.valueOf(currentRow.getCell(3).toString()) , currentRow.getCell(4).toString() ));
             }
         } catch (IOException e) {
             e.printStackTrace();

@@ -1,11 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13ef98d6-bfc4-45fd-9fcb-bcc50380e6e6" name="Default Changelist" comment="" />
+    <list default="true" id="13ef98d6-bfc4-45fd-9fcb-bcc50380e6e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ApachePOIExcelRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ApachePOIExcelRead.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ApachePOIExcelWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ApachePOIExcelWrite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PatientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PatientService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Excel.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Excel.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ApachePOIExcelRead.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ApachePOIExcelRead.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ApachePOIExcelWrite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ApachePOIExcelWrite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Excel.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Excel.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MainApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MainApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Patient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Patient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PatientService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PatientService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/wyjatki/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/wyjatki/BankAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/wyjatki/MainExceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/wyjatki/MainExceptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/wyjatki/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/wyjatki/Person.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -13,6 +39,12 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Zz8G2u4SlWSunvDgxYLhMZvCrG" />
   <component name="ProjectViewState">
@@ -22,6 +54,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -29,10 +62,17 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MainApp">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="PacjenciWallet" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainApp" />
-      <module name="ProjektDaminaPacjenty" />
+      <module name="PacjenciWallet" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -40,6 +80,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.MainApp" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -61,29 +102,53 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="485" y="72" key="#" timestamp="1585837842497">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="72" key="#/0.0.1536.824@0.0.1536.824" timestamp="1585837842497" />
+    <state x="767" y="62" key="#MainApp" timestamp="1585837666014">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="767" y="62" key="#MainApp/0.0.1536.824@0.0.1536.824" timestamp="1585837666014" />
     <state x="295" y="0" key="#Project_Structure" timestamp="1585831266175">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="295" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1585831266175" />
-    <state width="1390" height="138" key="GridCell.Tab.0.bottom" timestamp="1585831487735">
+    <state x="403" y="137" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585838219872">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1390" height="138" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585831487735" />
-    <state width="1390" height="138" key="GridCell.Tab.0.center" timestamp="1585831487735">
+    <state x="403" y="137" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585838219872" />
+    <state x="618" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585834848378">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1390" height="138" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585831487735" />
-    <state width="1390" height="138" key="GridCell.Tab.0.left" timestamp="1585831487735">
+    <state x="618" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1585834848378" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1585838353733">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1390" height="138" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585831487735" />
-    <state width="1390" height="138" key="GridCell.Tab.0.right" timestamp="1585831487735">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585838353733" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1585838353732">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1390" height="138" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585831487735" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585838353732" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1585838353732">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585838353732" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1585838353732">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585838353732" />
     <state x="117" y="0" key="SettingsEditor" timestamp="1585831067633">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="117" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585831067633" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1585834754842">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585834754842" />
+    <state x="209" y="109" key="new project wizard" timestamp="1585837009806">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="109" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585837009806" />
   </component>
 </project>

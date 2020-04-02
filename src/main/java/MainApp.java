@@ -73,10 +73,11 @@ public class MainApp {
         System.out.println("Podaj kwotę wizyty: ");
         Double price = scanner.nextDouble();
 
+        String korona = "Idź na badanie";
         if (patientService.isRegistered(pesel)){
             throw new TooManyPatientException();
         }
-        patientList.add(new Patient(name, surname, pesel, price));
+        patientList.add(new Patient(name, surname, pesel, price, korona));
         apachePOIExcelWrite.createExcel(patientList);
 
         System.out.println("Udało się zarejestrować nowego pacjenta");
